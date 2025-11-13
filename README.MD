@@ -7,6 +7,11 @@ This is the map for **Ice Crown RC1 Remastered v3.1.83 Public Test 4** that woul
 
 **UPLOADER'S NOTE: DO NOT UPLOAD ON EPICWAR.COM SITE AND WARCRAFT 3 MAP DATABASE! THIS MAP IS RELEASED EXCLUSIVELY ONLY IN INTERNET ARCHIVE AND GITHUB.**
 
+## Idea
+The idea is simple, Since after FWC 2025 event ended, Flyff Universe announced that there will be held Public Test Server (PTS), whereas the register is [here](https://pts-universe.flyff.com/register). Requiring the PTS Code.
+
+If you wish to play this map (Ice Crown RC1 Remastered v3.1.83 Public Test 4), You'll have to solve the two riddle questions first, and then You can play the map.
+
 ## How to get this map, and where to get riddle?
 To access the map file that has been encrypted, You must solve the riddle question first.
 
@@ -28,13 +33,13 @@ Please consider before you play this map after you received the password from th
 **Is map compatible with reforged graphics**: No, Classic Graphics only.
 
 ## Installation
-1. Put the following directory as shown: `E:\games\Warcraft III\Maps\` or at Download folder like this: `E:\games\Warcraft III\Maps\Download`
-1.1. If the Directory installed at the Program Files, like this: `C:\Program Files\Warcraft III` or if you run 64-bit: `C:\Program Files (x86)\Warcraft III`
+1. Put the following directory as shown: `E:\games\Warcraft III\Maps\` or at Download folder like this: `E:\games\Warcraft III\Maps\Download` However If the Directory installed at the Program Files, like this: `C:\Program Files\Warcraft III` or if you run 64-bit: `C:\Program Files (x86)\Warcraft III`
 2. Run War3.exe or use W3l.exe (Warcraft 3 Loader PVPGN) to launch.
 3. Select Single Player (Not recommended due for hackers/cheat), or Local Area Network (Recommended for Offline Multiplayer).
 4. Click the **Create Game** button at the bottom.
 5. Find the map whereas it says **Ice Crown RC1 Remastered v3.1.83-pt4** (if you haven't extracted it).
-**  Optionally, you can click **Advanced Options** to customize the settings, such as Full Shared Control, Observers and Map Visiblity. Our recommendation is:
+
+Optionally, you can click **Advanced Options** to customize the settings, such as Full Shared Control, Observers and Map Visiblity. Our recommendation is:
 
 Option | Value Set |
 ------ | --------- |
@@ -71,6 +76,7 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
 
 
 
