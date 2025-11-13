@@ -1,0 +1,11 @@
+# Git Attributes for Ice Crown RC1 Remastered v3.1.83 Public Test 4
+# Created by Scubarisa (PopuriAO29)
+# CRLF Line Ending
+
+## Text Files
+* text auto eol=crlf
+*.ttt eol=crlf
+*.txt eol=crlf
+
+## Markdown Files
+*.md auto eol=crlf
