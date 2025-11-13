@@ -53,16 +53,15 @@ Player 1| Any | Team 1 | Any | Any%
 Computer (Easy)| Human | Team 1 | Red | 100%
 Computer (Easy)| Undead | Team 1 | Purple | 100%
 Computer (Easy)| Night Elf | Team 1 | Night Elf | 100%
-
 Computer (Insane)| Human | Team 2 | Yellow | 100%
 Computer (Insane)| Orc | Team 2 | Orange | 100%
 Computer (Insane)| Undead | Team 2 | Green | 100%
 Computer (Insane)| Night Elf | Team 2 | Pink | 100%
-
 Computer (Insane)| Human | Team 3 | Gray | 100%
 Computer (Insane)| Orc | Team 3 | Light Blue | 100%
 Computer (Insane)| Undead | Team 3 | Dark Green | 100%
 Computer (Insane)| Night Elf | Team 3 | Brown | 100%
+
 7. Start the game, and enjoy!
 
 # The Riddle
@@ -71,4 +70,5 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
 
