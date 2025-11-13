@@ -26,7 +26,6 @@ Once the riddle question is answered, You will receive the password. This is the
 ### Getting the password
 You won't be able solve the riddle until you answer the question. After this, you'll receive the password.
 
-
 # Installation Requirements
 Please consider before you play this map after you received the password from the riddle answer.
 
@@ -45,8 +44,6 @@ There are three files contains as follows:
 Open the **Ice Crown RC1 Public Test 4 v3.1.83.7z** file using 7-zip File Manager. There are Readme file and Password.zip file once you do so by solving the riddle question.
 
 The **PASSWORD.ZIP** is the password file that included. If you are unsure to know how to use it, Read the **READ.TXT** file, as well **READTHIS.TXT** file. You cannot open the password until you solve the riddle question.
-
-
 
 **For the installation**
 1. Put the following directory as shown: `E:\games\Warcraft III\Maps\` or at Download folder like this: `E:\games\Warcraft III\Maps\Download` However If the Directory installed at the Program Files, like this: `C:\Program Files\Warcraft III` or if you run 64-bit: `C:\Program Files (x86)\Warcraft III`
@@ -92,9 +89,3 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
-
-
-
-
-
-
