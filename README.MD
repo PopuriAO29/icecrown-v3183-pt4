@@ -47,6 +47,7 @@ Observers | Full Observers/Referee
 Visibility | Always Visible (without using **ISeeDeadPeople** cheat)
 
 6. Set all teams as follows:
+
 | Players           | Race      | Team   | Color      | Handicap |
 | ----------------- | --------- | ------ | ---------- | -------- |
 | Player 1          | Any       | Team 1 | Any        | Any%     |
@@ -70,6 +71,7 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
 
 
 
