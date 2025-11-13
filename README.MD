@@ -12,6 +12,8 @@ The idea is simple, Since after FWC 2025 event ended, Flyff Universe announced t
 
 If you wish to play this map (Ice Crown RC1 Remastered v3.1.83 Public Test 4), You'll have to solve the two riddle questions first, and then You can play the map.
 
+Once you solve the two riddle question is done, You get the password.
+
 ## How to get this map, and where to get riddle?
 To access the map file that has been encrypted, You must solve the riddle question first.
 
@@ -32,7 +34,21 @@ Please consider before you play this map after you received the password from th
 
 **Is map compatible with reforged graphics**: No, Classic Graphics only.
 
-## Installation
+## Installation and Extraction
+**For the Extraction**
+
+There are three files contains as follows:
+* Ice Crown RC1 Public Test 4 v3.1.83.7z - Main Map file for Warcraft 3.
+* PASSWORD.zip - The password text file for **Ice Crown RC1 Public Test 4 v3.1.83.7z**.
+* READTHIS.TXT - Required to read the file for how to get password from Riddle question.
+
+Open the **Ice Crown RC1 Public Test 4 v3.1.83.7z** file using 7-zip File Manager. There are Readme file and Password.zip file once you do so by solving the riddle question.
+
+The **PASSWORD.ZIP** is the password file that included. If you are unsure to know how to use it, Read the **READ.TXT** file, as well **READTHIS.TXT** file. You cannot open the password until you solve the riddle question.
+
+
+
+**For the installation**
 1. Put the following directory as shown: `E:\games\Warcraft III\Maps\` or at Download folder like this: `E:\games\Warcraft III\Maps\Download` However If the Directory installed at the Program Files, like this: `C:\Program Files\Warcraft III` or if you run 64-bit: `C:\Program Files (x86)\Warcraft III`
 2. Run War3.exe or use W3l.exe (Warcraft 3 Loader PVPGN) to launch.
 3. Select Single Player (Not recommended due for hackers/cheat), or Local Area Network (Recommended for Offline Multiplayer).
@@ -76,6 +92,7 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
 
 
 
