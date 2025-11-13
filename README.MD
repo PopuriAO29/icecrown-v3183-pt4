@@ -24,6 +24,7 @@ You won't be able solve the riddle until you answer the question. After this, yo
 Please consider before you play this map after you received the password from the riddle answer.
 
 **Warcraft III Version**: Patch 1.27b (Minimum) through 1.31/1.32 (Version 2.0 is not supported).
+
 **Is map compatible with reforged graphics**: No, Classic Graphics only.
 
 ## Installation
@@ -70,3 +71,4 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
