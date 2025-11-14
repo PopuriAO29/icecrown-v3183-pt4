@@ -1,13 +1,15 @@
 # Ice Crown RC1 Remastered v3.1.83 Public Test 4
 Repository for those needed password once solving Riddle question.
 
+## What is this?
+
 This is the map for **Ice Crown RC1 Remastered v3.1.83 Public Test 4** that would be uploaded on Internet Archive. However due for several problems, We decided upload here on GitHub.
 
 **SECURITY NOTICE: DO NOT enter password as the main Ice Crown RC1 Remastered v3.1.82.**
 
 **UPLOADER'S NOTE: DO NOT UPLOAD ON EPICWAR.COM SITE AND WARCRAFT 3 MAP DATABASE! THIS MAP IS RELEASED EXCLUSIVELY ONLY IN INTERNET ARCHIVE AND GITHUB.**
 
-## Idea
+## Where did you get the Idea?
 The idea is simple, Since after FWC 2025 event ended, Flyff Universe announced that there will be held Public Test Server (PTS), whereas the register is [here](https://pts-universe.flyff.com/register). Requiring the PTS Code.
 
 If you wish to play this map (Ice Crown RC1 Remastered v3.1.83 Public Test 4), You'll have to solve the two riddle questions first, and then You can play the map.
@@ -89,4 +91,5 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
 
