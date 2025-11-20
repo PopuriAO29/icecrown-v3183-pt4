@@ -1,95 +1,95 @@
-# Couronne de Glace RC1 Remasterisé v3.1.83 Test Public 4
-Référentiel pour ceux qui ont besoin du mot de passe après avoir résolu l'énigme.
+# Couronne de Glace RC1 RemasterisÃ© v3.1.83 Test Public 4
+RÃ©fÃ©rentiel pour ceux qui ont besoin du mot de passe aprÃ¨s avoir rÃ©solu l'Ã©nigme.
 
-**AVIS: Le propriétaire de ce référentiel (PopuriAO29) ne vous demandera jamais votre question secrète ni votre mot de passe d'archive.**
+**AVIS: Le propriÃ©taire de ce rÃ©fÃ©rentiel (PopuriAO29) ne vous demandera jamais votre question secrÃ¨te ni votre mot de passe d'archive.**
 
 ## Qu'est-ce que c'est?
 
-Voici la carte pour ** Couronne de Glace RC1 Remasterisé v3.1.83 Test Public 4** qui serait téléchargé sur Internet Archive. Cependant, en raison de plusieurs problèmes, nous avons décidé de le télécharger ici sur GitHub.
+Voici la carte pour **Couronne de Glace RC1 RemasterisÃ© v3.1.83 Test Public 4** qui serait tÃ©lÃ©chargÃ© sur Internet Archive. Cependant, en raison de plusieurs problÃ¨mes, nous avons dÃ©cidÃ© de le tÃ©lÃ©charger ici sur GitHub.
 
-**AVIS DE SÉCURITÉ: NE PAS entrez le mot de passe comme principal Couronne de Glace RC1 Remasterisé v3.1.82.**
+**AVIS DE SÃ‰CURITÃ‰: NE PAS entrez le mot de passe comme principal Couronne de Glace RC1 RemasterisÃ© v3.1.82.**
 
-**TÉLÉCHARGEUR NOTE: NE PAS TÉLÉCHARGER PAS SUR EPICWAR.COM SITE ET WARCRAFT 3 MAP DATABASE! CETTE CARTE EST PUBLIÉE EXCLUSIVEMENT SEULEMENT DANS INTERNET ARCHIVE ET GITHUB.**
+**TÃ‰LÃ‰CHARGEUR NOTE: NE PAS TÃ‰LÃ‰CHARGER PAS SUR EPICWAR.COM SITE ET WARCRAFT 3 MAP DATABASE! CETTE CARTE EST PUBLIÃ‰E EXCLUSIVEMENT SEULEMENT DANS INTERNET ARCHIVE ET GITHUB.**
 
-## D'où vous est venue l'idée ?
-L'idée est simple : depuis la fin de l'événement FWC 2025, Flyff Universe a annoncé qu'il y aurait un serveur de test public (PTS), dont l'inscription se fait [ici](https://pts-universe.flyff.com/register). Nécessite le code PTS.
+## D'oÃ¹ vous est venue l'idÃ©e ?
+L'idÃ©e est simple : depuis la fin de l'Ã©vÃ©nement FWC 2025, Flyff Universe a annoncÃ© qu'il y aurait un serveur de test public (PTS), dont l'inscription se fait [ici](https://pts-universe.flyff.com/register). NÃ©cessite le code PTS.
 
-Si vous souhaitez jouer sur cette carte (Couronne de Glace RC1 Remasterisé v3.1.83 Test Public 4), Vous devrez d'abord résoudre les deux énigmes, puis vous pourrez jouer sur la carte.
+Si vous souhaitez jouer sur cette carte (Couronne de Glace RC1 RemasterisÃ© v3.1.83 Test Public 4), Vous devrez d'abord rÃ©soudre les deux Ã©nigmes, puis vous pourrez jouer sur la carte.
 
-Une fois que vous aurez résolu les deux énigmes, vous obtiendrez le mot de passe.
+Une fois que vous aurez rÃ©solu les deux Ã©nigmes, vous obtiendrez le mot de passe.
 
-## Comment obtenir cette carte, et où trouver l'énigme ?
-Pour accéder au fichier cartographique qui a été crypté, vous devez d'abord résoudre l'énigme.
+## Comment obtenir cette carte, et oÃ¹ trouver l'Ã©nigme ?
+Pour accÃ©der au fichier cartographique qui a Ã©tÃ© cryptÃ©, vous devez d'abord rÃ©soudre l'Ã©nigme.
 
-La première énigme est: **Pouvez-vous décrire l'épisode Ave Mujica dans lequel Mortis parle à Mutsumi ? Où se déroule cet épisode ?**
+La premiÃ¨re Ã©nigme est: **Pouvez-vous dÃ©crire l'Ã©pisode Ave Mujica dans lequel Mortis parle Ã  Mutsumi ? OÃ¹ se dÃ©roule cet Ã©pisode ?**
 
-La seconde énigme est: **Pourriez-vous expliquer pourquoi Mutsumi déteste Sakiko ? Est-ce que cela vient d'un épisode ? Ou de la bande dessinée ? Ou est-ce Mortis qui l'a dit ?**
+La seconde Ã©nigme est: **Pourriez-vous expliquer pourquoi Mutsumi dÃ©teste Sakiko ? Est-ce que cela vient d'un Ã©pisode ? Ou de la bande dessinÃ©e ? Ou est-ce Mortis qui l'a dit ?**
 
-Une fois que vous aurez répondu à l'énigme, vous recevrez le mot de passe. C'est la même raison que pour *Wadanohara and the Great Blue Sea* qui contient un fichier ZIP bonus. À moins que vous n'ayez résolu l'énigme après avoir joué à cette carte.
+Une fois que vous aurez rÃ©pondu Ã  l'Ã©nigme, vous recevrez le mot de passe. C'est la mÃªme raison que pour *Wadanohara and the Great Blue Sea* qui contient un fichier ZIP bonus. Ã€ moins que vous n'ayez rÃ©solu l'Ã©nigme aprÃ¨s avoir jouÃ© Ã  cette carte.
 
 ### Obtenir le mot de passe
-Vous ne pourrez pas résoudre l'énigme tant que vous n'aurez pas répondu à la question. Ensuite, vous recevrez le mot de passe.
+Vous ne pourrez pas rÃ©soudre l'Ã©nigme tant que vous n'aurez pas rÃ©pondu Ã  la question. Ensuite, vous recevrez le mot de passe.
 
 # Exigences d'Installation
-Veuillez réfléchir avant de jouer à cette carte après avoir reçu le mot de passe correspondant à la réponse à l'énigme.
+Veuillez rÃ©flÃ©chir avant de jouer Ã  cette carte aprÃ¨s avoir reÃ§u le mot de passe correspondant Ã  la rÃ©ponse Ã  l'Ã©nigme.
 
-**Warcraft III Version**: Patch 1.27b (Minimum) à travers 1.31/1.32 (La version 2.0 n'est pas prise en charge).
+**Warcraft III Version**: Patch 1.27b (Minimum) Ã  travers 1.31/1.32 (La version 2.0 n'est pas prise en charge).
 
-**La carte est-elle compatible avec les graphismes reforgés ?**: Non, uniquement les graphismes classiques.
+**La carte est-elle compatible avec les graphismes reforgÃ©s ?**: Non, uniquement les graphismes classiques.
 
 ## Installation et extraction
 **Pour l'extraction**
 
-Il existe trois fichiers contenant les éléments suivants :
+Il existe trois fichiers contenant les Ã©lÃ©ments suivants :
 * Ice Crown RC1 Public Test 4 v3.1.83.7z - Fichier de carte principale pour Warcraft 3.
 * PASSWORD.zip - Le fichier texte du mot de passe pour **Ice Crown RC1 Public Test 4 v3.1.83.7z**.
-* READTHIS.TXT - Il est nécessaire de lire le fichier pour savoir comment obtenir le mot de passe à partir de la question énigmatique.
+* READTHIS.TXT - Il est nÃ©cessaire de lire le fichier pour savoir comment obtenir le mot de passe Ã  partir de la question Ã©nigmatique.
 
-Ouvrez le fichier **Ice Crown RC1 Public Test 4 v3.1.83.7z** à l'aide du gestionnaire de fichiers 7-zip. Vous y trouverez un fichier Readme et un fichier Password.zip après avoir résolu l'énigme.
+Ouvrez le fichier **Ice Crown RC1 Public Test 4 v3.1.83.7z** Ã  l'aide du gestionnaire de fichiers 7-zip. Vous y trouverez un fichier Readme et un fichier Password.zip aprÃ¨s avoir rÃ©solu l'Ã©nigme.
 
-Le fichier **PASSWORD.ZIP** est le fichier contenant le mot de passe. Si vous ne savez pas comment l'utiliser, lisez les fichiers **READ.TXT** et **READTHIS.TXT**. Vous ne pouvez pas ouvrir le mot de passe tant que vous n'avez pas résolu l'énigme.
+Le fichier **PASSWORD.ZIP** est le fichier contenant le mot de passe. Si vous ne savez pas comment l'utiliser, lisez les fichiers **READ.TXT** et **READTHIS.TXT**. Vous ne pouvez pas ouvrir le mot de passe tant que vous n'avez pas rÃ©solu l'Ã©nigme.
 
 **Pour l'installation**
-1. Placez le répertoire suivant comme indiqué : `E:\games\Warcraft III\Maps\` ou dans le dossier Téléchargements comme ceci : `E:\games\Warcraft III\Maps\Download` Cependant, si le répertoire est installé dans Program Files, comme ceci : `C:\Program Files\Warcraft III` ou si vous utilisez une version 64 bits : `C:\Program Files (x86)\Warcraft III`
-2. Exécutez War3.exe ou utilisez W3l.exe (Warcraft 3 Loader PVPGN) pour lancer.
-3. Choix **Solo** (Déconseillé en raison des risques de triche/piratage.), ou **Réseau Local** (Recommandé pour le multijoueur hors ligne).
-4. Cliquez sur le bouton **Créer une partie** en bas de la page.
-5. Trouvez la carte là où il est indiqué **Ice Crown RC1 Remastered v3.1.83-pt4** (si vous ne l'avez pas extrait).
+1. Placez le rÃ©pertoire suivant comme indiquÃ© : `E:\games\Warcraft III\Maps\` ou dans le dossier TÃ©lÃ©chargements comme ceci : `E:\games\Warcraft III\Maps\Download` Cependant, si le rÃ©pertoire est installÃ© dans Program Files, comme ceci : `C:\Program Files\Warcraft III` ou si vous utilisez une version 64 bits : `C:\Program Files (x86)\Warcraft III`
+2. ExÃ©cutez War3.exe ou utilisez W3l.exe (Warcraft 3 Loader PVPGN) pour lancer.
+3. Choix **Solo** (DÃ©conseillÃ© en raison des risques de triche/piratage.), ou **RÃ©seau Local** (RecommandÃ© pour le multijoueur hors ligne).
+4. Cliquez sur le bouton **CrÃ©er une partie** en bas de la page.
+5. Trouvez la carte lÃ  oÃ¹ il est indiquÃ© **Ice Crown RC1 Remastered v3.1.83-pt4** (si vous ne l'avez pas extrait).
 
-Vous pouvez également cliquer sur **Options avancées** pour personnaliser les paramètres, tels que le contrôle partagé total, les observateurs et la visibilité de la carte. Notre recommandation :
+Vous pouvez Ã©galement cliquer sur **Options avancÃ©es** pour personnaliser les paramÃ¨tres, tels que le contrÃ´le partagÃ© total, les observateurs et la visibilitÃ© de la carte. Notre recommandation :
 
 | Options                          | Ensemble de valeurs                                         |
 | -------------------------------- | ----------------------------------------------------------- |
-| Équipe Verrouillage              | Vrai (Par Défaut)                                           |
-| Ensemble en équipe               | Vrai (Par Défaut)                                           |
-| Contrôle d'unité partagé complet | Vrai                                                        |
-| Courses aléatoires               | Non (Par Défaut)                                            |
-| Héros aléatoires                 | Vrai (Facultatif)                                           |
-| Observateurs                     | Observateurs/Arbitres à part entière                        |
-| Visibilité                       | Toujours visible (sans utiliser le code **ISeeDeadPeople**) |
+| Ã‰quipe Verrouillage              | Vrai (Par DÃ©faut)                                           |
+| Ensemble en Ã©quipe               | Vrai (Par DÃ©faut)                                           |
+| ContrÃ´le d'unitÃ© partagÃ© complet | Vrai                                                        |
+| Courses alÃ©atoires               | Non (Par DÃ©faut)                                            |
+| HÃ©ros alÃ©atoires                 | Vrai (Facultatif)                                           |
+| Observateurs                     | Observateurs/Arbitres Ã  part entiÃ¨re                        |
+| VisibilitÃ©                       | Toujours visible (sans utiliser le code **ISeeDeadPeople**) |
 
-6. Configurez toutes les équipes comme suit :
+6. Configurez toutes les Ã©quipes comme suit :
 
-| Joueurs             | Course          | Équipe   | Couleur    | Handicap |
+| Joueurs             | Course          | Ã‰quipe   | Couleur    | Handicap |
 | ------------------- | --------------- | -------- | ---------- | -------- |
-| Joueur 1            | Quelconque      | Équipe 1 | Quelconque | Any%     |
-| Ordinateur (Facile) | Humain          | Équipe 1 | Rouge      | 100%     |
-| Ordinateur (Facile) | Mort-vivant     | Équipe 1 | Violette   | 100%     |
-| Ordinateur (Facile) | Elfe de la nuit | Équipe 1 | Bleu       | 100%     |
-| Ordinateur (Folle)  | Humain          | Équipe 2 | Jaune      | 100%     |
-| Ordinateur (Folle)  | Orc             | Équipe 2 | Orange     | 100%     |
-| Ordinateur (Folle)  | Mort-vivant     | Équipe 2 | Verte      | 100%     |
-| Ordinateur (Folle)  | Elfe de la nuit | Équipe 2 | Rose       | 100%     |
-| Ordinateur (Folle)  | Humain          | Équipe 3 | Grise      | 100%     |
-| Ordinateur (Folle)  | Orc             | Équipe 3 | Bleu Clair | 100%     |
-| Ordinateur (Folle)  | Mort-vivant     | Équipe 3 | Vert Foncé | 100%     |
-| Ordinateur (Folle)  | Elfe de la nuit | Équipe 3 | Brun       | 100%     |
+| Joueur 1            | Quelconque      | Ã‰quipe 1 | Quelconque | Any%     |
+| Ordinateur (Facile) | Humain          | Ã‰quipe 1 | Rouge      | 100%     |
+| Ordinateur (Facile) | Mort-vivant     | Ã‰quipe 1 | Violette   | 100%     |
+| Ordinateur (Facile) | Elfe de la nuit | Ã‰quipe 1 | Bleu       | 100%     |
+| Ordinateur (Folle)  | Humain          | Ã‰quipe 2 | Jaune      | 100%     |
+| Ordinateur (Folle)  | Orc             | Ã‰quipe 2 | Orange     | 100%     |
+| Ordinateur (Folle)  | Mort-vivant     | Ã‰quipe 2 | Verte      | 100%     |
+| Ordinateur (Folle)  | Elfe de la nuit | Ã‰quipe 2 | Rose       | 100%     |
+| Ordinateur (Folle)  | Humain          | Ã‰quipe 3 | Grise      | 100%     |
+| Ordinateur (Folle)  | Orc             | Ã‰quipe 3 | Bleu Clair | 100%     |
+| Ordinateur (Folle)  | Mort-vivant     | Ã‰quipe 3 | Vert FoncÃ© | 100%     |
+| Ordinateur (Folle)  | Elfe de la nuit | Ã‰quipe 3 | Brun       | 100%     |
 
 7. Lancez le jeu et amusez-vous !
 
-# L'énigme
-Vous devez répondre à deux énigmes. Si vous ne les avez pas encore lues, faites défiler vers le haut.
+# L'Ã©nigme
+Vous devez rÃ©pondre Ã  deux Ã©nigmes. Si vous ne les avez pas encore lues, faites dÃ©filer vers le haut.
 
-En attendant, amusez-vous bien ! Bonne chance pour résoudre les énigmes !
+En attendant, amusez-vous bien ! Bonne chance pour rÃ©soudre les Ã©nigmes !
 
 -- Scubarisa (Michelpuri/PopuriO2)
