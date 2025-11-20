@@ -1,6 +1,8 @@
 # Ice Crown RC1 Remastered v3.1.83 Public Test 4
 Repository for those needed password once solving Riddle question.
 
+**NOTICE: The owner of this repository (PopuriAO29) will never ask for your Riddle question or Archive password.**
+
 ## What is this?
 
 This is the map for **Ice Crown RC1 Remastered v3.1.83 Public Test 4** that would be uploaded on Internet Archive. However due for several problems, We decided upload here on GitHub.
@@ -91,5 +93,6 @@ There are two riddles question you must answer. Scroll above if you haven't read
 Besides of this, enjoy playing game. have fun for getting riddles!
 
 -- Scubarisa (Michelpuri/PopuriO2)
+
 
 
